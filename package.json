@@ -1,0 +1,33 @@
+{
+  "name": "itproject2026",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000o0X0�0f0n0�0�0�0�0�0\r\u0000 \u0000",
+  "main": "index.js",
+  "scripts": {
+    "dev": "tsx watch ./index.ts",
+    "build": "tsc",
+    "start": "node ./dist/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Fumi1i/20261006.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Fumi1i/20261006/issues"
+  },
+  "homepage": "https://github.com/Fumi1i/20261006#readme",
+  "dependencies": {
+    "ejs": "^7.0.1",
+    "express": "^5.2.1"
+  },
+  "devDependencies": {
+    "@types/express": "^5.0.6",
+    "@types/node": "^26.6.4",
+    "tsx": "^4.23.15",
+    "typescript": "^7.0.2"
+  }
+}
